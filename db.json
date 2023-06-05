@@ -11,14 +11,14 @@
   "forum": [
     {
       "id": 1,
-      "username": "",
-      "avatar" : "",
-      "title": "some title",
-      "description" :"some description",
-      "language" : "some language",
+      "username": "tej123",
+      "avatar" : "https://media.istockphoto.com/id/1483487034/photo/portrait-of-a-cute-female-video-game-avatar.jpg?s=2048x2048&w=is&k=20&c=01mhu4RH2KnKR7BqBRRIeV4VXzHllILZK8EXLu4gW7A=",
+      "title": "Learn javascript",
+      "description" :"i want to learn javascript please probide me resources",
+      "language" : "JavaScript",
       "number_of_upvotes" : 0,
       "number_of_answers" : 0,
-      "posted_date" : "posted_date",
+      "posted_date" : "2023-06-05",
       "answers": [
         {
           "userAvatar": "user_avatar2.png",
